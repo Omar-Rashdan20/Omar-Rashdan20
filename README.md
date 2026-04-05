@@ -1,7 +1,7 @@
 # Hi, I'm Omar 👋
 
 🎓 Data Science & Artificial Intelligence Graduate
-🤖 Passionate about Machine Learning, AI Engineering, Computer Vision, and Generative AI
+Passionate about Machine Learning, AI Engineering, Computer Vision, and Generative AI
 
 ---
 
