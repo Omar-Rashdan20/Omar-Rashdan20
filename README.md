@@ -76,6 +76,6 @@ An AI-powered assistive system designed to support visually impaired individuals
 ## 📫 Connect With Me
 
 * LinkedIn: [LinkedIn](https://www.linkedin.com/in/omar-rashdan-64a475282/)
-* Email: [rashdanomar15@gmail.com](mailto:rashdanomar15@gmail.com)
+* Email: [Email](mailto:rashdanomar15@gmail.com)
 
 ---
