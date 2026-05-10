@@ -1,19 +1,26 @@
-# Hi, I'm Omar 👋
+# Hi, I'm Omar Rashdan 👋
 
-🎓 Data Science & Artificial Intelligence Graduate
-Passionate about Machine Learning, AI Engineering, Computer Vision, and Generative AI
+🎓 Data Scientist & AI Engineer
+💡 Passionate about Generative AI, Computer Vision, LLMs, and Intelligent Systems
 
 ---
 
 ## 🚀 About Me
 
-I am a Data Science and Artificial Intelligence graduate passionate about building intelligent systems that solve real-world problems using **Machine Learning, Deep Learning, Computer Vision, and Large Language Models (LLMs)**.
+I am a Data Science and Artificial Intelligence graduate focused on building real-world AI systems using Machine Learning, Deep Learning, Computer Vision, and Large Language Models (LLMs).
 
-During my academic journey, I focused on transforming theoretical knowledge into practical AI solutions through hands-on projects across multiple domains.
+I enjoy transforming AI research into practical applications through hands-on projects involving:
+
+* Generative AI & LLM Fine-Tuning
+* Retrieval-Augmented Generation (RAG)
+* Computer Vision Systems
+* AI Automation & Multi-Agent Workflows
+
+My goal is to develop intelligent AI products that solve real-world problems and create meaningful user impact.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 ### AI & Machine Learning
 
@@ -21,61 +28,92 @@ During my academic journey, I focused on transforming theoretical knowledge into
 * Computer Vision
 * Natural Language Processing (NLP)
 * Retrieval-Augmented Generation (RAG)
+* LLM Fine-Tuning (LoRA / QLoRA / DPO)
 
-### Tools & Technologies
+### Frameworks & Tools
 
 * Python, NumPy, Pandas
-* PyTorch / TensorFlow
+* PyTorch, TensorFlow, Scikit-learn
 * OpenCV, YOLO
-* LangChain, Vector Databases
-* Power BI
-* n8n
+* LangChain, LangGraph, LlamaIndex
+* Hugging Face, CrewAI
+* Power BI, n8n
 
 ---
 
-## 📌 Projects & Experience
+## 📌 Featured Projects
 
-### 🧠 Graduation Project
+### 👁️ SightOfBlind – Assistive Vision System
 
-### 👁️ Sight of Blind
+AI-powered assistive system designed for visually impaired users.
 
-An AI-powered assistive system designed to support visually impaired individuals.
+* Real-time object detection using YOLO + Raspberry Pi
+* Achieved 92% detection accuracy across 15 object classes
+* Integrated audio feedback for environmental awareness
 
-* Built using **YOLO + Raspberry Pi** for real-time object detection
-* Achieved **92% accuracy** across 15 object classes
-* Integrated **audio feedback** to help users better understand their surroundings
-
-### Other Projects
-
-* 🤖 RAG-based question answering systems using LangChain and vector databases
-* 🚗 Computer Vision models for traffic event detection and classification
-* 💬 NLP models for sentiment analysis and opinion mining
-* 📊 Data analysis & visualization using Python and Power BI
-* ⚙️ Automation workflows using n8n
+🔗 Repository:
+https://github.com/Omar-Rashdan20/SightOfBlind-Graduation-Project-
 
 ---
 
-## 🔬 What I Bring
+### 🧠 DPO Fine-Tuning for LLM Alignment
 
-* End-to-end AI pipeline development
-* Data preprocessing and feature engineering
-* Model training, evaluation, and optimization
-* Data visualization and insight generation
+* Implemented Direct Preference Optimization (DPO) pipeline
+* Applied QLoRA-based parameter-efficient fine-tuning
+* Optimized LLaMA-3 alignment using Hugging Face & TRL
+
+🔗 Repository:
+https://github.com/Omar-Rashdan20/DPO-Fine-Tuning
 
 ---
 
-## 🎯 Interests
+### 👗 StyleFinder – AI Fashion Recommendation System
 
-* Generative AI & LLM applications
-* Computer Vision systems
-* Real-world AI products
-* Scalable AI solutions
+* Vision-language recommendation system
+* Semantic vector similarity search
+* Multimodal AI for clothing understanding & retrieval
+
+🔗 Repository:
+https://github.com/Omar-Rashdan20/Style_Finder_v1
+
+---
+
+### 🤖 AI Job Search Automation Agent
+
+* Multi-agent AI workflow using CrewAI
+* Automated intelligent job discovery pipelines
+* LLM-powered task orchestration
+
+🔗 Repository:
+https://github.com/Omar-Rashdan20/Crew-ai-job-search
+
+---
+
+### 🍔 FOOD RAG Chatbot
+
+* Conversational AI chatbot using RAG architecture
+* Semantic retrieval + LLM response generation
+* Reduced hallucinations through grounded retrieval
+
+🔗 Repository:
+https://github.com/Omar-Rashdan20/FOOD_RAGadv
+
+---
+
+## 🔬 Areas of Interest
+
+* Generative AI & LLM Applications
+* Computer Vision Systems
+* AI Agents & Automation
+* Real-Time AI Applications
+* Scalable AI Products
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: [LinkedIn](https://www.linkedin.com/in/omar-rashdan-64a475282/)
-* Email: [Email](mailto:rashdanomar15@gmail.com)
+💼 LinkedIn
+https://www.linkedin.com/in/omar-rashdan-64a475282/
 
----
+📧 Email
+[rashdanomar15@gmail.com](mailto:rashdanomar15@gmail.com)
